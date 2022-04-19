@@ -42,6 +42,7 @@
 
 ## Developer
 
-- **NUR INNA ALFIANINDA**
-    - **ni.alfianinda@gmail.com**
+> **NUR INNA ALFIANINDA**
+
+> ni.alfianinda@gmail.com
 
