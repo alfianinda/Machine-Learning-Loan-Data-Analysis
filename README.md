@@ -40,9 +40,16 @@
 - Home ownership could signal that a person is responsible and capable of handling loans
 - Another view is that home owners could use their house as collateral when asking for loan so that they are charged with the lower interest rate. 
 
+
+## Codes
+
+
+## Results
+
+
 ## Developer
 
 > **NUR INNA ALFIANINDA**
 
-> ni.alfianinda@gmail.com
+> http://cv.alamazed.com/
 
