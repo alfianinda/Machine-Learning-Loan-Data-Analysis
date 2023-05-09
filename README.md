@@ -42,10 +42,12 @@
 
 
 ## Codes
+
 https://alfianinda.github.io/Machine-Learning-Loan-Data-Analysis/
 
 
 ## Results
+
 https://alfianinda.github.io/Machine-Learning-Loan-Data-Analysis/Loan%20Data%20Analysis.pdf
 
 
@@ -53,5 +55,5 @@ https://alfianinda.github.io/Machine-Learning-Loan-Data-Analysis/Loan%20Data%20A
 
 > **NUR INNA ALFIANINDA**
 
-> http://cv.alamazed.com/
+> https://cv.alamazed.com/data/
 
