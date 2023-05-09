@@ -42,9 +42,11 @@
 
 
 ## Codes
+https://alfianinda.github.io/Machine-Learning-Loan-Data-Analysis/
 
 
 ## Results
+https://alfianinda.github.io/Machine-Learning-Loan-Data-Analysis/Loan%20Data%20Analysis.pdf
 
 
 ## Developer
