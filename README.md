@@ -55,5 +55,5 @@ https://alfianinda.github.io/Machine-Learning-Loan-Data-Analysis/Loan%20Data%20A
 
 > **NUR INNA ALFIANINDA**
 
-> https://cv.alamazed.com/data/
+> ni.alfianinda@gmail.com
 
